@@ -84,7 +84,7 @@
 
 # Indentation is the spaces written at the beginning of the code, it increases readability.
 
-# Python use a indentation to specify a block of code.
+# Python use an indentation to specify a block of code.
 
 #
 
@@ -584,7 +584,7 @@
 
 # Q56. How is dictionary different from all other data structures.
 
-# Dictionary is formed with key and value pair, where as other dataTypes don't have such structure.
+# Dictionary is formed with key and value pair, whereas other dataTypes don't have such structure.
 
 #
 
@@ -1166,13 +1166,13 @@
 
 # *
 
-#  * *
+#   * *
 
-#  * * *
+#   * * *
 
-#  * * * *
+#   * * * *
 
-#  * * * * *
+#   * * * * *
 
 #
 
@@ -1214,13 +1214,13 @@
 
 # *
 
-#     * *
+#      * *
 
-#    * * *
+#     * * *
 
-#   * * * *
+#    * * * *
 
-#  * * * * *
+#   * * * * *
 
 #
 
