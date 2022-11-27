@@ -81,7 +81,10 @@ A:  Inheritance and polymorphism are fundamental concepts of OOP. These concepts
 extended and easily maintainable.
 
 Q18. Describe three applications for exception processing.
-A:
+A:  a) While working with Files, incase file is not available to access, FileNotFound exception is triggered
+b) While performing numeric operations, in case of divide by 0, ZeroDivisionError exception is triggered
+c) While accessing list elements, in case of incorrect access to unavailable index, arrayIndexOutOfBound exception is
+triggered
 
 Q19. What happens if you don't do something extra to treat an exception?
 A: Program will be terminated with exception details.
